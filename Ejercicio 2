@@ -1,7 +1,0 @@
-# A,B y C son una variable y contienen una operación aritmetrica con al menos dos numeros para que sea menor que 8
-print("Tres variables que interactuan para llegar a valores menores que 8")
-A=3
-B=A+2
-C=B-1
-Res=(A+B-C)
-print(Res) #En este caso la intencion principal está completa
